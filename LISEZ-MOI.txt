@@ -1,0 +1,9 @@
+LE MYSTÈRE DE LA MAIRIE — HALLOWEEN / EVAL&GO
+
+Contenu : index.html, style.css, script.js, intro-halloween.mp4, Sinister - Anno Domini Beats.mp3.
+
+Parcours : vidéo d'introduction -> accueil -> bouton « Entrer dans le mystère » -> formulaire Eval&Go.
+La musique démarre au clic sur le bouton et reste en boucle sur la page du formulaire.
+
+Pour tester, placer tous les fichiers dans le même dossier et ouvrir le site via un serveur web local ou un hébergement HTTPS. Une connexion Internet est nécessaire pour charger le formulaire Eval&Go et les polices.
+Si le service externe refuse l'affichage dans une iframe, utiliser le lien « ouvre-le dans une nouvelle fenêtre ».
